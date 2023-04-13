@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '94714184446' //Nomor Bot
+global.nomorown = '94714184446' //Nomor Owner
+global.namebot = 'Niroshan And Tharuwa OFC BOT' //Nama Bot
+global.nameown = 'Niroshan And Tharuwa OFC' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +65,11 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['94714184446', 'Niroshan And Tharuwa OFC🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['94714184446','94702572157','94764792453'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -103,13 +103,13 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.wm = '「 Niroshan And Tharuwaa OFC BOT-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ NIROSHAN- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Niroshan And Tharuwaa OFC BOT-ᴍᴅ-ᴠ𝟷'
+global.footerTXT = `Niroshan And Tharuwaa OFC BOT-ᴍᴅ-ᴠ𝟷 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +94 71 418 4446`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ Niroshan ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
@@ -177,10 +177,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = 'Niroshan And Tharuwaa OFC BOT-ᴍᴅ-ᴠ𝟷'
+global.stickauth = `「 Niroshan And Tharuwaa OFC BOT-ᴍᴅ-ᴠ𝟷 」`
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ Niroshan'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Niroshan'
 
 global.multiplier = 38 // The higher, The harder levelup
 
